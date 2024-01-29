@@ -8,6 +8,9 @@ Sixth Sense revolutionizes the way disabled individuals interact with their envi
 - **Health Monitoring**: Real-time health tracking with emergency alerts.
 - **AI Integration**: Advanced AI for accurate command interpretation.
 
+## Team & Awards
+[Meet Our Team](./Team_&_Awards.pdf)
+
 ## Getting Started
 To begin using Sixth Sense, wear the EEG headband and connect to the companion app. Perform predefined gestures (e.g., blink twice to send a text) to control your environment.
 
