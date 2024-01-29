@@ -52,7 +52,7 @@ To begin using Sixth Sense, wear the EEG headband and connect to the companion a
 Sixth Sense captures brainwave signals, processes them through AI algorithms, and translates them into actionable commands, offering a seamless interaction experience.
 
 ## Project Slides
-For a detailed overview, refer to our [presentation slides](slides/Sixth_Sense_Project_Overview.pdf).
+For a detailed overview, refer to our [presentation slides](./slides/Sixth_Sense_Project_Overview.pdf).
 
 ## Contributing
 We welcome contributions! If you have suggestions or want to contribute code, please follow our [contribution guidelines](CONTRIBUTING.md).
