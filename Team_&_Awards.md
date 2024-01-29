@@ -1,6 +1,6 @@
 # Our Team
-![Alt Text](relative_path_to_image)
+![Alt Text](./slides/materials/Team.jpg)
 
 # Awards
 Third in Techathon 2024 ESG
-![Alt Text](relative_path_to_image)
+![Alt Text](./slides/materials/Award.jpg)
